@@ -98,7 +98,8 @@ author:
   bio              : "Staff Engineer@Samsung Display & Visiting Scholar@UCLA"
   location         : "Los Angeles"
   email            : "stins309@gmail.com"
-  cv               : "/profile/CV_Dong-Gon_Yoo.pdf"
+  linkedin         : "672379191"
+  # cv               : "/profile/CV_Dong-Gon_Yoo.pdf"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
